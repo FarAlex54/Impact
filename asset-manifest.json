@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FarAlex54/impactTest.git/static/css/main.d8ffbee8.css",
+    "main.js": "/FarAlex54/impactTest.git/static/js/main.95e08b63.js",
+    "static/js/787.a7d06ab8.chunk.js": "/FarAlex54/impactTest.git/static/js/787.a7d06ab8.chunk.js",
+    "static/media/Montserrat.ttf": "/FarAlex54/impactTest.git/static/media/Montserrat.087334ca601e288c996e.ttf",
+    "static/media/Montserrat-bold.ttf": "/FarAlex54/impactTest.git/static/media/Montserrat-bold.762081826406b019c89c.ttf",
+    "index.html": "/FarAlex54/impactTest.git/index.html",
+    "main.d8ffbee8.css.map": "/FarAlex54/impactTest.git/static/css/main.d8ffbee8.css.map",
+    "main.95e08b63.js.map": "/FarAlex54/impactTest.git/static/js/main.95e08b63.js.map",
+    "787.a7d06ab8.chunk.js.map": "/FarAlex54/impactTest.git/static/js/787.a7d06ab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8ffbee8.css",
+    "static/js/main.95e08b63.js"
+  ]
+}
